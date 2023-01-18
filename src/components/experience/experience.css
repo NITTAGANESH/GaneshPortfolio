@@ -4,6 +4,10 @@
     gap: 2rem;
 }
 
+.container.experience__container {
+    width: 100%;
+}
+
 .experience__container>div {
     background: var(--color-bg-variant);
     padding: 2.4rem 5rem;
