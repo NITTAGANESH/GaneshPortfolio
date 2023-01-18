@@ -26,7 +26,7 @@ const Footer = () => {
                 <a href='https://twitter.com'><IoLogoTwitter /></a>
             </div>
             <div className='footer__copyright'>
-                <small>&copy; Ganes Portfolio. All rights received</small>
+                <small>&copy; Ganesh Portfolio. All rights received</small>
             </div>
         </footer>
     )
